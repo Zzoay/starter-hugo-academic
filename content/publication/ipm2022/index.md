@@ -22,8 +22,8 @@ publishDate: "2022-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Information Processing & Management*"
-publication_short: "IPM"
+publication: "In *Information Processing & Management, 2022*"
+# publication_short: "IPM"
 
 abstract: The spread of fake news has become a significant social problem, drawing great concern for fake news detection (FND). Pretrained language models (PLMs), such as BERT and RoBERTa can benefit this task much, leading to state-of-the-art performance. The common paradigm of utilizing these PLMs is fine-tuning, in which a linear classification layer is built upon the well-initialized PLM network, resulting in an FND mode, and then the full model is tuned on a training corpus. Although great successes have been achieved, this paradigm still involves a significant gap between the language model pretraining and target task fine-tuning processes. Fortunately, prompt learning, a new alternative to PLM exploration, can handle the issue naturally, showing the potential for further performance improvements. To this end, we propose knowledgeable prompt learning (KPL) for this task. First, we apply prompt learning to FND, through designing one sophisticated prompt template and the corresponding verbal words carefully for the task. Second, we incorporate external knowledge into the prompt representation, making the representation more expressive to predict the verbal words. Experimental results on two benchmark datasets demonstrate that prompt learning is better than the baseline fine-tuning PLM utilization for FND and can outperform all previous representative methods. Our final knowledgeable model (i.e, KPL) can provide further improvements. In particular, it achieves an average increase of 3.28% in F1 score under low-resource conditions compared with fine-tuning.
 
@@ -31,7 +31,10 @@ abstract: The spread of fake news has become a significant social problem, drawi
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Fake News Detection
+- Prompt Learning
+- Few-shot Learning
+- Natural Language Processing
 featured: false
 
 # links:

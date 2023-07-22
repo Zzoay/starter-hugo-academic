@@ -30,14 +30,14 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Findings of the Association for Computational Linguistics (ACL) 2023*
-publication_short: In *Findings of ACL 2023*
+# publication_short: In *Findings of ACL 2023*
 
 abstract: Dialogue-level dependency parsing has received insufficient attention, especially for Chinese. To this end, we draw on ideas from syntactic dependency and rhetorical structure theory (RST), developing a high-quality human-annotated corpus, which contains 850 dialogues and 199,803 dependencies. Considering that such tasks suffer from high annotation costs, we investigate zero-shot and few-shot scenarios. Based on an existing syntactic treebank, we adopt a signal-based method to transform seen syntactic dependencies into unseen ones between elementary discourse units (EDUs), where the signals are detected by masked language modeling. Besides, we apply single-view and multi-view data selection to access reliable pseudo-labeled instances. Experimental results show the effectiveness of these baselines. Moreover, we discuss several crucial points about our dataset and approach.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ['Dependency Parsing', 'Natural Language Processing', 'Zero-shot Learning', 'Few-shot Learning']
 
 # Display this page in the Featured widget?
 featured: false
