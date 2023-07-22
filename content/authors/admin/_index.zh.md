@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Gongyao Jiang
+title: 蒋功耀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: master student
+role: 准硕士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tianjin University
+- name: 天津大学
   url: http://www.tju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,17 +18,17 @@ bio: My research interests include natural language processing, machine learning
 
 # Interests to show in About widget
 interests:
-- Natural Language Processing
-- Deep Learning
+- 自然语言处理
+- 情感分析，句法分析，文本摘要
 
 # Education to show in About widget
 education:
   courses:
-  - course: Computer Technology
-    institution: Tianjin University
-    year: 2021-ongoing
-  - course: Network Engineering
-    institution: Guangdong University of Technology
+  - course: 电子信息
+    institution: 天津大学
+    year: 2021-2024（预计）
+  - course: 网络工程
+    institution: 广东工业大学
     year: 2017-2021
 
 # Social/Academic Networking
@@ -39,6 +39,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Zzoay
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -54,5 +55,4 @@ email: "jianggongyao at gmail dot com"
 highlight_name: true
 ---
 
-Gongyao Jiang is a second year master's student at [Tianjin University](http://www.tju.edu.cn/), supervised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is natural language processing. He is currently a research intern / algorithm intern at THU-CoAI and Lingxin Intelligence.
-
+本人是广东工业大学的应届毕业生，同时是天津大学的准硕士研究生（2021年9月入学），研究兴趣为自然语言处理，深度学习。
