@@ -6,7 +6,7 @@ title: Gongyao Jiang
 superuser: true
 
 # Role/position/tagline
-role: master student
+role: master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: http://www.tju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a second year master's student at Tianjin University, supervised by Dr. Meishan Zhang. My research interest is natural language processing.
+bio: I am a second-year master's student at Tianjin University, supervised by Dr. Meishan Zhang. My research interest is natural language processing.
 
 # Interests to show in About widget
 interests:
@@ -57,5 +57,5 @@ email: "jianggongyao at gmail dot com"
 highlight_name: true
 ---
 
-Gongyao Jiang is a second-year master's student (coming up to third year) at [Tianjin University](http://www.tju.edu.cn/), supervised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is natural language processing. He is currently a research intern/algorithm intern at THU-CoAI and Lingxin Intelligence.
+Gongyao Jiang is a second-year master's student (coming up to third year) at [Tianjin University](http://www.tju.edu.cn/), supervised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is natural language processing. He is currently a research/algorithm intern at THU-CoAI and Lingxin Intelligence.
 
