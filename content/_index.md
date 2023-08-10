@@ -40,7 +40,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
       - title: Research Intern
-        company: THU-CoAI
+        company: CoAI Lab in Tsinghua University
         # company_url: https://coai.cs.tsinghua.edu.cn/
         # company_logo: org-x
         location: Beijing
@@ -48,7 +48,7 @@ sections:
         date_end: ''
         description: |2-
           * Research on natural language processing
-          * Research on conversational system
+          * Research on conversational system (especially on emotional, empathetic and human-like systems)
       - title: Algorithm Intern
         company: Lingxin Intelligence
         location: Beijing

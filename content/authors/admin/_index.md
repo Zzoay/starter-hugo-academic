@@ -18,8 +18,9 @@ bio: I am a second-year master's student at Tianjin University, supervised by Dr
 
 # Interests to show in About widget
 interests:
+- Artificial Intelligence
 - Natural Language Processing
-- Deep Learning
+- Human-Computer Interaction
 
 # Education to show in About widget
 education:
