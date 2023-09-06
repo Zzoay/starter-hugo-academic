@@ -60,5 +60,5 @@ email: "jianggongyao at gmail dot com"
 highlight_name: true
 ---
 
-Gongyao Jiang is a third-year master's student at [Tianjin University](http://www.tju.edu.cn/), supervised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is natural language processing. He is currently a research/algorithm intern at THU-CoAI and Lingxin Intelligence.
+Gongyao Jiang is a third-year master's student at [Tianjin University](http://www.tju.edu.cn/), supervised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is natural language processing. He is currently a research/algorithm intern at CoAI Lab at Tsinghua University and Lingxin Intelligence Company.
 
