@@ -66,9 +66,35 @@ sections:
           * Development of a platform for meteorological data collection and analysis
     design:
       columns: '2'
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-12-01'
+          description: ''
+          organization: The Ministry of Education of China
+          organization_url: ''
+          title: National Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-06-01'
+          description: ''
+          organization: Guangdong University of Technology
+          organization_url: ''
+          title: Outstanding Graduates in GDUT
+          url: ''
+    design:
+      columns: '2'
 ---
