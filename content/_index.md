@@ -89,11 +89,19 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
+          date_start: '2021-09-01'
+          description: ''
+          organization: Tianjin University
+          organization_url: ''
+          title: Extraordinary Academic Scholarship of TJU
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2021-06-01'
           description: ''
           organization: Guangdong University of Technology
           organization_url: ''
-          title: Outstanding Graduates in GDUT
+          title: Outstanding Graduate of GDUT
           url: ''
     design:
       columns: '2'
