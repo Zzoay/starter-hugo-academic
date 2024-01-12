@@ -6,15 +6,15 @@ title: Gongyao Jiang
 superuser: true
 
 # Role/position/tagline
-role: master's student
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tianjin University
-  url: http://www.tju.edu.cn/
+- name: HKUST (Guangzhou Campus)
+  url: https://www.hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a three-year master's student at Tianjin University, supervised by Dr. Meishan Zhang. My research interest is natural language processing.
+bio: I am a first-year Ph.D. student at HKUST (GZ), supervised by Prof. Qiong Luo. My research interest is data science and natural language processing.
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Eng. Student in Computer Technology
+  - course: Ph.D. Candidate in Data Science and Analytics
+    institution: The Hong Kong University of Science and Technology (Guangzhou)
+    year: 2024-ongoing
+  - course: M.Eng. in Computer Technology
     institution: Tianjin University
-    year: 2021-ongoing
+    year: 2021-2024
   - course: B.Eng. in Network Engineering
     institution: Guangdong University of Technology
     year: 2017-2021
@@ -60,5 +63,5 @@ email: "jianggongyao at gmail dot com"
 highlight_name: true
 ---
 
-Gongyao Jiang is a third-year master's student at [Tianjin University](http://www.tju.edu.cn/), supervised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is natural language processing. He is currently a research/algorithm intern at CoAI Lab at Tsinghua University and Lingxin Intelligence Company.
+Gongyao Jiang is a first-year Ph.D. student at [HKUST (GZ Campus)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Qiong Luo](https://www.cse.ust.hk/~luo/). Before that, he have earned the master's degree at [Tianjin University](http://www.tju.edu.cn/), supervised by Prof. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is data science and natural language processing. 
 

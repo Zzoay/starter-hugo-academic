@@ -45,7 +45,7 @@ sections:
         # company_logo: org-x
         location: Beijing
         date_start: '2023-05-29'
-        date_end: ''
+        date_end: '2023-12-31'
         description: |2-
           * Research on natural language processing (especially AI for good)
           * Research on conversational system (especially on emotion support, empathetic and human-like systems)
@@ -53,7 +53,7 @@ sections:
         company: Lingxin Intelligence
         location: Beijing
         date_start: '2023-05-29'
-        date_end: ''
+        date_end: '2023-12-31'
         description: |2-
           * Algorithmic engineering on LLM-based character conversational system
           * Algorithmic engineering on LLM-based document reader
