@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Recent Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -23,9 +23,10 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      count: 3
     design:
-      columns: '2'
-      view: citation
+      columns: '1'
+      # view: citation
   - block: experience
     id: experience
     content:
@@ -65,7 +66,7 @@ sections:
         description: |2-
           * Development of a platform for meteorological data collection and analysis
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -104,5 +105,5 @@ sections:
           title: Outstanding Graduate of GDUT
           url: ''
     design:
-      columns: '2'
+      columns: '1'
 ---

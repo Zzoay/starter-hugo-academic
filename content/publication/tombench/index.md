@@ -1,15 +1,20 @@
 ---
-title: 'LLM-Assistant Data Augmentation for Chinese Dialogue-Level Dependency Parsing'
+title: 'ToMBench: Benchmarking Theory of Mind in Large Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Meishan Zhang
+  - Zhuang Chen*
+  - Jincenzi Wu*
+  - Jinfeng Zhou*
+  - Bosi Wen
+  - Guanqun Bi
   - admin
-  - Shuang Liu
-  - Jing Chen
-  - Min Zhang
+  - Yaru Cao
+  - Yunghwei Lai
+  - Zexuan Xiong
+  - Minlie Huang
 
 # Author notes (optional)
 author_notes:
@@ -21,24 +26,24 @@ doi: ''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
-publishDate: '2024-03-04'
+publishDate: '2024-02-23T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational Linguistics  (2024)*
+publication: In *arXiv Computation and Language (cs.CL)*
 # publication_short: In *Computational Linguistics*
 
-abstract: Dialogue-level dependency parsing, despite its growing academic interest, often encounters underperformance issues due to resource shortages. A potential solution to this challenge is data augmentation. In recent years, large language models (LLMs) have demonstrated strong capabilities in generation which can facilitate data augmentation greatly. In this study, we focus on Chinese dialogue-level dependency parsing, presenting three simple and effective strategies with LLM to augment the original training instances, namely word-level, syntax-level and discourse-level augmentations, respectively. These strategies enable LLMs to either preserve or modify dependency structures, thereby assuring accuracy while increasing the diversity of instances at different levels.We conduct experiments on the benchmark dataset released by Jiang et al. (2023) to validate our approach. Results show that our method can greatly boost the parsing performance in various settings, particularly in dependencies among elementary discourse units (EDUs). Lastly, we provide in-depth analysis to show the key points of our data augmentation strategies.
+abstract: "Theory of Mind (ToM) is the cognitive capability to perceive and ascribe mental states to oneself and others. Recent research has sparked a debate over whether large language models (LLMs) exhibit a form of ToM. However, existing ToM evaluations are hindered by challenges such as constrained scope, subjective judgment, and unintended contamination, yielding inadequate assessments. To address this gap, we introduce ToMBench with three key characteristics, a systematic evaluation framework encompassing 8 tasks and 31 abilities in social cognition, a multiple-choice question format to support automated and unbiased evaluation, and a build-from-scratch bilingual inventory to strictly avoid data leakage. Based on ToMBench, we conduct extensive experiments to evaluate the ToM performance of 10 popular LLMs across tasks and abilities. We find that even the most advanced LLMs like GPT-4 lag behind human performance by over 10% points, indicating that LLMs have not achieved a human-level theory of mind yet. Our aim with ToMBench is to enable an efficient and effective evaluation of LLMs' ToM capabilities, thereby facilitating the development of LLMs with inherent social intelligence."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ['Dependency Parsing', 'Natural Language Processing', 'Large Language Model']
+tags: ['Theory Of Mind', 'Large Language Model', 'Benchmark']
 
 # Display this page in the Featured widget?
 featured: false
@@ -48,8 +53,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2402.15052.pdf'
+url_code: 'https://github.com/zhchen18/ToMBench'
 url_dataset: ''
 url_poster: ''
 url_project: ''
