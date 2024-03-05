@@ -79,6 +79,7 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      count: 2
       items:
         - certificate_url: ''
           date_end: ''
