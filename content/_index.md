@@ -23,10 +23,10 @@ sections:
         folders:
           - publication
         exclude_featured: true
-      count: 3
+      count: 4
     design:
       columns: '1'
-      # view: citation
+      view: citation
   - block: experience
     id: experience
     content:
