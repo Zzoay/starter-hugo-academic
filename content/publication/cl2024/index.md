@@ -16,12 +16,12 @@ author_notes:
   # - 'Equal contribution'
 
 # date: '2013-07-01T00:00:00Z'
-date: ''
+date: '2024-03-12'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
-publishDate: '2024-03-01'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00515/120014/LLM-Assisted-Data-Augmentation-for-Chinese'
 url_code: 'https://github.com/Zzoay/DialogDepAug'
 url_dataset: ''
 url_poster: ''
