@@ -15,16 +15,16 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/jgy.pdf
     design:
       css_class: dark
       background:
-        color: black
+        color: '#285275'
         image:
           # Add your image background to `assets/media/`.
-          filename: background.svg
+          filename: stacked-peaks.svg
           filters:
             brightness: 0.8
           size: cover
@@ -37,7 +37,7 @@ sections:
       text: |-
         My research focuses on **large language models for social science**, especially for knowledge dissemination and educational facilitation. Beyond LLM application, I am also interested in exploring their fundamental principles and inherent limitations.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate. 😃
     design:
       columns: '1'
   # - block: collection
