@@ -123,15 +123,15 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Reviewer
     items:
-      - name: Python
+      - name: ACL Rolling Review, ACL 2024, EMNLP 2024
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Information Processing and Management
         description: ''
-        percent: 80
+        # percent: 80
         icon: chart-bar
 #       - name: SQL
 #         description: ''
