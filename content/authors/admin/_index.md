@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Gongyao Jiang (蒋功耀)
+title: Gongyao Jiang
 
 # Name pronunciation (optional)
 # name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Gongyao
-last_name: Jiang
+first_name: Gongyao (功耀)
+last_name: Jiang (蒋)
 
 # Status emoji
 # status:
