@@ -30,16 +30,24 @@ sections:
           size: cover
           position: center
           parallax: false
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       My research focuses on **large language models for social science**, especially for knowledge dissemination and educational facilitation. Beyond LLM application, I am also interested in exploring their fundamental principles and inherent limitations.
+        
+  #       Please reach out to collaborate. 😃
+  #   design:
+  #     columns: '1'
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔥 News'
       subtitle: ''
       text: |-
-        My research focuses on **large language models for social science**, especially for knowledge dissemination and educational facilitation. Beyond LLM application, I am also interested in exploring their fundamental principles and inherent limitations.
-        
-        Please reach out to collaborate. 😃
+        - Our paper **"JRE-L: Journalist, Reader, and Editor LLMs in the Loop for Science Journalism for the General Audience"** is accepted by **NAACL 2025**! Many thanks to my supervisor Prof. LUO and my groupmate Xinran. 
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: papers
   #   content:

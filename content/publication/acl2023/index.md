@@ -48,8 +48,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://aclanthology.org/2023.findings-acl.607.pdf'
-url_code: 'https://github.com/Zzoay/DialogDep/tree/main/code'
-url_dataset: 'https://github.com/Zzoay/DialogDep/tree/main/data'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

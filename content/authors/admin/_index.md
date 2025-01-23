@@ -125,7 +125,7 @@ work:
 skills:
   - name: Reviewer
     items:
-      - name: ACL Rolling Review, ACL 2024, EMNLP 2024
+      - name: ACL Rolling Review 2024 ~ 2025 (ACL 2024~2025, EMNLP 2024, NAACL 2025)
         description: ''
         # percent: 80
         icon: code-bracket

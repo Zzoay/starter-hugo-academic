@@ -49,7 +49,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00515/120014/LLM-Assisted-Data-Augmentation-for-Chinese'
-url_code: 'https://github.com/Zzoay/DialogDepAug'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
