@@ -196,4 +196,4 @@ awards:
 
 ## About Me
 
-Gongyao Jiang (蒋功耀) is a first-year Ph.D student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Qiong Luo](https://www.cse.ust.hk/~luo/). Before that, he earned a master's degree at [Tianjin University](http://www.tju.edu.cn/), supervised by Prof. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is data science and natural language processing. 
+Gongyao Jiang (蒋功耀) is a second-year Ph.D student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Qiong Luo](https://www.cse.ust.hk/~luo/). Before that, he earned a master's degree at [Tianjin University](http://www.tju.edu.cn/), supervised by Prof. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is data science and natural language processing. 
