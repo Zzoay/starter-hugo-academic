@@ -45,7 +45,7 @@ sections:
       title: '🔥 News'
       subtitle: ''
       text: |-
-        - Our paper **"JRE-L: Journalist, Reader, and Editor LLMs in the Loop for Science Journalism for the General Audience"** is accepted by **NAACL 2025**! Many thanks to my supervisor Prof. LUO and my groupmate Xinran. 
+        - Our paper **"Chart-CoCa: Self-Improving Chart Understanding of Vision LMs via Code-Driven Synthesis and Candidate-Conditioned Answering"** is accepted by **CIKM 2025**! Many thanks to my supervisor Prof. LUO. 
     design:
       columns: '2'
   # - block: collection
