@@ -45,7 +45,7 @@ sections:
       title: '🔥 News'
       subtitle: ''
       text: |-
-        - Our paper **"Chart-CoCa: Self-Improving Chart Understanding of Vision LMs via Code-Driven Synthesis and Candidate-Conditioned Answering"** is accepted by **CIKM 2025**! Many thanks to my supervisor Prof. LUO. 
+        - Our paper **"ESR-Coach: Leveraging Large Language Models for Training People to Provide Emotionally Supportive Responses"** is accepted by **IUI 2026**! Many thanks to Prof. LUO, Mr. LI, and Prof. MA. 
     design:
       columns: '2'
   # - block: collection

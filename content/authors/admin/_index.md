@@ -87,6 +87,12 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Visiting Student
+    company_name: HKUST HCI Initiative
+  #   company_url: ''
+  #   company_logo: ''
+    date_start: 2025-09-01
+    date_end: 2026-01-31
   - position: Research Intern
     company_name: CoAI Lab at Tsinghua University
   #   company_url: ''
@@ -104,10 +110,10 @@ work:
   #   company_logo: ''
     date_start: 2023-05-31
     date_end: 2023-12-01
-  - position: Engineering Intern
-    company_name: Guangdong Provincial Meteorological Bureau
-    date_start: 2019-04-28
-    date_end: 2019-08-22
+  # - position: Engineering Intern
+  #   company_name: Guangdong Provincial Meteorological Bureau
+  #   date_start: 2019-04-28
+  #   date_end: 2019-08-22
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -125,7 +131,7 @@ work:
 skills:
   - name: Reviewer
     items:
-      - name: ACL Rolling Review 2024 ~ 2025 (ACL 2024~2025, EMNLP 2024, NAACL 2025)
+      - name: ACL Rolling Review 2024 ~ 2026 (ACL 2024~2026, EMNLP 2024～2025, NAACL 2025)
         description: ''
         # percent: 80
         icon: code-bracket
@@ -133,6 +139,14 @@ skills:
         description: ''
         # percent: 80
         icon: chart-bar
+      - name: AAAI 2026
+        description: ''
+        # percent: 80
+        icon: circle-stack
+      - name: ICLR 2026
+        description: ''
+        # percent: 80
+        icon: code-bracket
 #       - name: SQL
 #         description: ''
 #         percent: 40
@@ -196,4 +210,4 @@ awards:
 
 ## About Me
 
-Gongyao Jiang (蒋功耀) is a second-year Ph.D student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Qiong Luo](https://www.cse.ust.hk/~luo/). Before that, he earned a master's degree at [Tianjin University](http://www.tju.edu.cn/), supervised by Prof. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is data science and natural language processing. 
+Gongyao Jiang (蒋功耀) is a Ph.D candidate (rising third-year) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Qiong Luo](https://www.cse.ust.hk/~luo/). Before that, he earned a master's degree at [Tianjin University](http://www.tju.edu.cn/), supervised by Prof. [Meishan Zhang](https://zhangmeishan.github.io/). His research interest is data science and natural language processing. 
